@@ -1,0 +1,23 @@
+{
+  "name": "my-work-util",
+  "version": "1.0.0",
+  "description": "我的工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "chromedriver": "^87.0.2",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-alpha.8",
+    "sync-request": "^6.1.0",
+    "user-agents": "^1.0.649",
+    "xmcommon": "^0.1.4",
+    "xmldom": "^0.4.0",
+    "xpath": "0.0.32"
+  }
+}
